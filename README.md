@@ -160,6 +160,6 @@ h1{
 
 ![output](./out.png)
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./valid.png)
+![HTML VALIDATOR](./valid1.png)
 ## RESULT:
 The program of designing a calculator is designed succcesfully!
